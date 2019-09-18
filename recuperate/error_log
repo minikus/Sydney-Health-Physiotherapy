@@ -1,0 +1,541 @@
+1498191992: /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/ssv3_payload_extractor-lvOOHPwtzl.php startup
+[26-Jun-2017 06:54:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function meta() on null in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/themes/magnum/index.php:3
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/template-loader.php(74): include()
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-blog-header.php(19): require_once('/home2/carmenm8...')
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/index.php(17): require('/home2/carmenm8...')
+#3 {main}
+  thrown in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/themes/magnum/index.php on line 3
+[26-Jun-2017 06:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function meta() on null in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/themes/magnum/index.php:3
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/template-loader.php(74): include()
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-blog-header.php(19): require_once('/home2/carmenm8...')
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/index.php(17): require('/home2/carmenm8...')
+#3 {main}
+  thrown in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/themes/magnum/index.php on line 3
+[07-Feb-2018 08:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Feb-2018 22:33:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Feb-2018 07:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 10:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[10-Feb-2018 22:01:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Feb-2018 11:00:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 01:29:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 07:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Feb-2018 17:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 04:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[13-Feb-2018 17:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 04:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 15:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Feb-2018 17:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 09:14:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Feb-2018 23:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 09:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Feb-2018 17:54:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 09:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Feb-2018 18:36:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 15:16:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Feb-2018 20:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Feb-2018 01:55:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Feb-2018 15:21:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Feb-2018 18:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[23-Feb-2018 17:35:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[24-Feb-2018 04:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[25-Feb-2018 07:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[26-Feb-2018 20:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[27-Feb-2018 21:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[28-Feb-2018 05:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[01-Mar-2018 01:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[02-Mar-2018 12:28:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[04-Mar-2018 15:05:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[04-Mar-2018 23:08:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[05-Mar-2018 14:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[05-Mar-2018 20:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Mar-2018 07:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[07-Mar-2018 22:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Mar-2018 13:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[08-Mar-2018 19:30:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[09-Mar-2018 21:42:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[11-Mar-2018 01:53:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Mar-2018 00:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Mar-2018 07:55:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Mar-2018 21:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Mar-2018 02:30:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[14-Mar-2018 09:21:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Mar-2018 05:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[15-Mar-2018 23:45:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Mar-2018 10:07:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[16-Mar-2018 16:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[17-Mar-2018 06:49:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[18-Mar-2018 14:27:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Mar-2018 05:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[19-Mar-2018 17:26:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[20-Mar-2018 21:36:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[21-Mar-2018 07:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[21-Mar-2018 17:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[22-Mar-2018 18:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[23-Mar-2018 04:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[23-Mar-2018 19:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[24-Mar-2018 11:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[25-Mar-2018 14:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[25-Mar-2018 16:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[26-Mar-2018 09:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[26-Mar-2018 21:28:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[27-Mar-2018 09:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[27-Mar-2018 17:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[28-Mar-2018 04:54:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[28-Mar-2018 16:33:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[29-Mar-2018 07:58:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[29-Mar-2018 16:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[30-Mar-2018 04:40:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function request_filesystem_credentials() in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#1 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/home2/carmenm8...', true)
+#2 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/home2/carmenm8...')
+#3 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/update.php(215): find_core_auto_update()
+#4 /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-includes/class-wp- in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+[12-Aug-2018 20:25:38 UTC] WordPress database error Query execution was interrupted for query SELECT option_value FROM wp_rmib_options WHERE option_name = 'jetpack_tos_agreed' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, JetpackTracking::track_jetpack_usage, Jetpack::jetpack_tos_agreed, Jetpack_Options::get_option, get_option
+[12-Aug-2018 20:25:38 UTC] WordPress database error Query execution was interrupted for query UPDATE `wp_rmib_options` SET `option_value` = 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1534105537;s:7:\"checked\";a:6:{s:19:\"akismet/akismet.php\";s:5:\"4.0.8\";s:9:\"hello.php\";s:3:\"1.6\";s:19:\"jetpack/jetpack.php\";s:5:\"6.4.2\";s:47:\"mojo-marketplace-wp-plugin/mojo-marketplace.php\";s:5:\"1.3.4\";s:37:\"optinmonster/optin-monster-wp-api.php\";s:5:\"1.5.0\";s:24:\"wpforms-lite/wpforms.php\";s:7:\"1.4.7.2\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:5:{s:19:\"akismet/akismet.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:21:\"w.org/plugins/akismet\";s:4:\"slug\";s:7:\"akismet\";s:6:\"plugin\";s:19:\"akismet/akismet.php\";s:11:\"new_version\";s:5:\"4.0.8\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/akismet/\";s:7:\"package\";s:56:\"https://downloads.wordpress.org/plugin/akismet.4.0.8.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:59:\"https://ps.w.org/akismet/assets/icon-256x256.png?rev=969272\";s:2:\"1x\";s:59:\"https://ps.w.org/akismet/assets/icon-128x128.png?rev=969272\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:61:\"https://ps.w.org/akismet/assets/banner-772x250.jpg?rev=479904\";}s:11:\"banners_rtl\";a:0:{}}s:9:\"hello.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:25:\"w.org/plugins/hello-dolly\";s:4:\"slug\";s:11:\"hello-dolly\";s:6:\"plugin\";s:9:\"hello.php\";s:11:\"new_version\";s:3:\"1.6\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/hello-dolly/\";s:7:\"package\";s:58:\"https://downloads.wordpress.org/plugin/hello-dolly.1.6.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:63:\"https://ps.w.org/hello-dolly/assets/icon-256x256.jpg?rev=969907\";s:2:\"1x\";s:63:\"https://ps.w.org/hello-dolly/assets/icon-128x128.jpg?rev=969907\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:65:\"https://ps.w.org/hello-dolly/assets/banner-772x250.png?rev=478342\";}s:11:\"banners_rtl\";a:0:{}}s:19:\"jetpack/jetpack.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:21:\"w.org/plugins/jetpack\";s:4:\"slug\";s:7:\"jetpack\";s:6:\"plugin\";s:19:\"jetpack/jetpack.php\";s:11:\"new_version\";s:5:\"6.4.2\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/jetpack/\";s:7:\"package\";s:56:\"https://downloads.wordpress.org/plugin/jetpack.6.4.2.zip\";s:5:\"icons\";a:3:{s:2:\"2x\";s:60:\"https://ps.w.org/jetpack/assets/icon-256x256.png?rev=1791404\";s:2:\"1x\";s:52:\"https://ps.w.org/jetpack/assets/icon.svg?rev=1791404\";s:3:\"svg\";s:52:\"https://ps.w.org/jetpack/assets/icon.svg?rev=1791404\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:63:\"https://ps.w.org/jetpack/assets/banner-1544x500.png?rev=1791404\";s:2:\"1x\";s:62:\"https://ps.w.org/jetpack/assets/banner-772x250.png?rev=1791404\";}s:11:\"banners_rtl\";a:0:{}}s:37:\"optinmonster/optin-monster-wp-api.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:26:\"w.org/plugins/optinmonster\";s:4:\"slug\";s:12:\"optinmonster\";s:6:\"plugin\";s:37:\"optinmonster/optin-monster-wp-api.php\";s:11:\"new_version\";s:5:\"1.5.0\";s:3:\"url\";s:43:\"https://wordpress.org/plugins/optinmonster/\";s:7:\"package\";s:55:\"https://downloads.wordpress.org/plugin/optinmonster.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:65:\"https://ps.w.org/optinmonster/assets/icon-256x256.png?rev=1145864\";s:2:\"1x\";s:65:\"https://ps.w.org/optinmonster/assets/icon-128x128.png?rev=1145864\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:68:\"https://ps.w.org/optinmonster/assets/banner-1544x500.png?rev=1145863\";s:2:\"1x\";s:67:\"https://ps.w.org/optinmonster/assets/banner-772x250.png?rev=1145863\";}s:11:\"banners_rtl\";a:0:{}}s:24:\"wpforms-lite/wpforms.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:26:\"w.org/plugins/wpforms-lite\";s:4:\"slug\";s:12:\"wpforms-lite\";s:6:\"plugin\";s:24:\"wpforms-lite/wpforms.php\";s:11:\"new_version\";s:7:\"1.4.7.2\";s:3:\"url\";s:43:\"https://wordpress.org/plugins/wpforms-lite/\";s:7:\"package\";s:55:\"https://downloads.wordpress.org/plugin/wpforms-lite.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:65:\"https://ps.w.org/wpforms-lite/assets/icon-256x256.png?rev=1371112\";s:2:\"1x\";s:65:\"https://ps.w.org/wpforms-lite/assets/icon-128x128.png?rev=1371112\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:68:\"https://ps.w.org/wpforms-lite/assets/banner-1544x500.png?rev=1371112\";s:2:\"1x\";s:67:\"https://ps.w.org/wpforms-lite/assets/banner-772x250.png?rev=1371112\";}s:11:\"banners_rtl\";a:0:{}}}}', `autoload` = 'no' WHERE `option_name` = '_site_transient_update_plugins' made by do_action_ref_array, WP_Hook->do_action, WP_Hook->apply_filters, wp_update_plugins, set_site_transient, update_site_option, update_network_option, update_option
+[09-Oct-2018 17:19:10 UTC] PHP Warning:  require_once(/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php): failed to open stream: No such file or directory in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73
+[09-Oct-2018 17:19:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php' (include_path='.:/opt/php70/lib/php') in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73
+[09-Oct-2018 17:19:11 UTC] PHP Warning:  require_once(/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php): failed to open stream: No such file or directory in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73
+[09-Oct-2018 17:19:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php' (include_path='.:/opt/php70/lib/php') in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73
+[09-Oct-2018 17:19:11 UTC] PHP Warning:  require_once(/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php): failed to open stream: No such file or directory in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73
+[09-Oct-2018 17:19:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/sync/class.jetpack-sync-actions.php' (include_path='.:/opt/php70/lib/php') in /home3/carmenm8/public_html/sydneyhealthphysiotherapy/recuperate/wp-content/plugins/jetpack/jetpack.php on line 73

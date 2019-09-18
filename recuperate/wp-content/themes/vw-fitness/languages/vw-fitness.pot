@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VW Fitness\n"
+"Last-Translator: \n"
+"Language-Team: VW Themes <support@vwthemes.com>\n"
+"Language: English\n"
+"MIME-Version: 2.6.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 0.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:12
+msgid '404'
+msgstr ""
+
+#: 404.php:12
+msgid 'Not Found'
+msgstr ""
+
+#: 404.php:13
+msgid 'Looks like you have taken a wrong turn'
+msgstr ""
+
+#: 404.php:14
+#: no-results.php:21
+msgid 'Dont worry&hellip it happens to the best of us.'
+msgstr ""
+
+#: 404.php:16
+#: no-results.php:23
+msgid 'Back to Home Page'
+msgstr ""
+
+#: comments.php:30
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:38
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:68
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:32
+msgid 'Fitness WordPress Theme By'
+msgstr ""
+
+#: header.php:21
+msgid 'Menu'
+msgstr ""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:16
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:18
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: searchform.php:10
+#: searchform.php:12
+msgid 'Search'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:11
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:17
+msgid 'Meta'
+msgstr ""
+
+#: archive.php:43
+#: archive.php:79
+#: archive.php:113
+#: archive.php:147
+#: archive.php:184
+#: archive.php:219
+#: index.php:42
+#: index.php:74
+#: index.php:104
+#: index.php:134
+#: index.php:167
+#: index.php:198
+#: search.php:38
+#: search.php:71
+#: search.php:102
+#: search.php:133
+#: search.php:167
+#: search.php:201
+#: image.php:59
+#: image.php:112
+#: image.php:164
+#: image.php:217
+#: image.php:272
+#: image.php:328
+#: single.php:49
+#: single.php:91
+#: single.php:133
+#: single.php:175
+#: single.php:219
+#: single.php:263
+msgid  'Previous page'
+msgstr ""
+
+#: archive.php:44
+#: archive.php:80
+#: archive.php:114
+#: archive.php:148
+#: archive.php:185
+#: archive.php:220
+#: index.php:43
+#: index.php:75
+#: index.php:105
+#: index.php:135
+#: index.php:168
+#: index.php:199
+#: search.php:39
+#: search.php:72
+#: search.php:103
+#: search.php:134
+#: search.php:168
+#: search.php:202
+#: image.php:56
+#: image.php:109
+#: image.php:161
+#: image.php:214
+#: image.php:269
+#: image.php:325
+#: single.php:46
+#: single.php:88
+#: single.php:130
+#: single.php:172
+#: single.php:216
+#: single.php:260
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:45
+#: archive.php:81
+#: archive.php:115
+#: archive.php:149
+#: archive.php:186
+#: archive.php:221
+#: index.php:44
+#: index.php:76
+#: index.php:106
+#: index.php:136
+#: index.php:169
+#: index.php:200
+#: search.php:40
+#: search.php:73
+#: search.php:104
+#: search.php:135
+#: search.php:169
+#: search.php:203
+msgid 'Page'
+msgstr ""
+
+#: search.php:18
+#: search.php:51
+#: search.php:82
+#: search.php:113
+#: search.php:147
+#: search.php:181
+msgid 'Results For: %s'
+msgstr ""
+
+#: image.php:36
+#: image.php:89
+#: image.php:141
+#: image.php:194
+#: image.php:249
+#: image.php:305
+msgid 'Pages:'
+msgstr ""
+
+#: image.php:41
+#: image.php:94
+#: image.php:146
+#: image.php:199
+#: image.php:254
+#: image.php:310
+msgid 'Edit'
+msgstr ""
+
+#: image.php:51
+#: image.php:104
+#: image.php:156
+#: image.php:209
+#: image.php:264
+#: image.php:320
+#: single.php:41
+#: single.php:83
+#: single.php:125
+#: single.php:167
+#: single.php:211
+#: single.php:255
+msgid 'Parent post link'
+msgstr ""
+
+#: image.php:57
+#: image.php:110
+#: image.php:162
+#: image.php:215
+#: image.php:270
+#: image.php:326
+#: single.php:47
+#: single.php:89
+#: single.php:131
+#: single.php:173
+#: single.php:217
+#: single.php:261
+msgid 'Next post:'
+msgstr ""
+
+#: image.php:60
+#: image.php:113
+#: image.php:165
+#: image.php:218
+#: image.php:273
+#: image.php:329
+#: single.php:50
+#: single.php:92
+#: single.php:134
+#: single.php:176
+#: single.php:220
+#: single.php:264
+msgid 'Previous post:'
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:51
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:83
+msgid 'Thank you for choosing VW Fitness theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Fitness theme.'
+msgstr ""
+
+#: functions.php:84
+msgid 'Welcome Page'
+msgstr ""
+
+#: functions.php:90
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: functions.php:100
+msgid 'Page Sidebar'
+msgstr ""
+
+#: functions.php:101
+#: functions.php:111
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:110
+msgid 'Third Column Sidebar'
+msgstr ""
+
+#: functions.php:120
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:130
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:140
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:121
+#: functions.php:131
+#: functions.php:141
+#: functions.php:151
+msgid "Appears on footer"
+msgstr ""
+
+#: functions.php:394
+msgid 'VWThemes'
+msgstr ""
+
+#: page-template/custom-home-page.php:56
+msgid 'Learn More'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "VW Settings"
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:26
+msgid 'Theme Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:41
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:33
+#: inc/customizer.php:44
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:150
+msgid 'Typography'
+msgstr ""
+
+#: inc/customizer.php:161
+msgid 'Paragraph Color'
+msgstr ""
+
+#: inc/customizer.php:175
+msgid 'Paragraph Fonts'
+msgstr ""
+
+#: inc/customizer.php:186
+msgid 'Paragraph Font Size'
+msgstr ""
+
+#: inc/customizer.php:198
+msgid '"a" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:212
+msgid '"a" Tag Fonts'
+msgstr ""
+#: inc/customizer.php:223
+msgid '"li" Tag Color'
+msgstr ""
+
+#: inc/customizer.php:237
+msgid '"li" Tag Fonts'
+msgstr ""
+
+#: inc/customizer.php:284
+msgid 'H1 Color'
+msgstr ""
+#: inc/customizer.php:262
+msgid 'H1 Fonts'
+msgstr ""
+
+#: inc/customizer.php:274
+msgid 'H1 Font Size'
+msgstr ""
+
+#: inc/customizer.php:286
+msgid 'h2 Color'
+msgstr ""
+
+#: inc/customizer.php:300
+msgid 'h2 Fonts'
+msgstr ""
+
+#: inc/customizer.php:312
+msgid 'h2 Font Size'
+msgstr ""
+
+#: inc/customizer.php:324
+msgid 'h3 Color'
+msgstr ""
+
+#: inc/customizer.php:338
+msgid 'h3 Fonts'
+msgstr ""
+
+#: inc/customizer.php:350
+msgid 'h3 Font Size'
+msgstr ""
+
+#: inc/customizer.php:362
+msgid 'h4 Color'
+msgstr ""
+
+#: inc/customizer.php:376
+msgid 'h4 Fonts'
+msgstr ""
+
+#: inc/customizer.php:388
+msgid 'h4 Font Size'
+msgstr ""
+
+#: inc/customizer.php:400
+msgid 'h5 Color'
+msgstr ""
+
+#: inc/customizer.php:414
+msgid 'h5 Fonts'
+msgstr ""
+
+#: inc/customizer.php:426
+msgid 'h5 Font Size'
+msgstr ""
+
+#: inc/customizer.php:438
+msgid 'h6 Color'
+msgstr ""
+
+#: inc/customizer.php:452
+msgid 'h6 Fonts'
+msgstr ""
+
+#: inc/customizer.php:464
+msgid 'h6 Font Size'
+msgstr ""
+
+#: inc/customizer.php:472
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:486
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:495
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:496
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:507
+msgid 'Select Service Page'
+msgstr ""
+
+#: inc/customizer.php:515
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:527
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:613
+msgid 'VW Fitness Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:614
+msgid 'Upgrade Pro'
+msgstr ""
+
+#: inc/customizer.php:627
+msgid 'Documentation'
+msgstr ""
+
+#: inc/customizer.php:268
+msgid 'Docs'
+msgstr ""

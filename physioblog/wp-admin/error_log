@@ -1,0 +1,13 @@
+[25-Jun-2017 05:00:55 UTC] wizard_viewed
+[25-Jun-2017 05:01:06 UTC] wizard_started
+[25-Jun-2017 05:01:33 UTC] wizard_step_completed
+[25-Jun-2017 05:01:34 UTC] wizard_step_viewed
+[25-Jun-2017 05:01:37 UTC] wizard_step_viewed
+[25-Jun-2017 05:01:37 UTC] wizard_step_completed
+[25-Jun-2017 05:01:41 UTC] wizard_step_completed
+[25-Jun-2017 05:01:42 UTC] wizard_step_viewed
+[25-Jun-2017 05:01:45 UTC] wizard_step_completed
+[25-Jun-2017 05:01:46 UTC] wizard_step_viewed
+[25-Jun-2017 05:01:57 UTC] PHP Fatal error:  Class 'Jetpack_Landing_Page' not found in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/physioblog/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/class.jetpack-onboarding-end-points.php on line 567
+[25-Jun-2017 05:02:04 UTC] PHP Fatal error:  Class 'Jetpack_Landing_Page' not found in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/physioblog/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/class.jetpack-onboarding-end-points.php on line 567
+[25-Jun-2017 05:02:06 UTC] PHP Fatal error:  Class 'Jetpack_Landing_Page' not found in /home2/carmenm8/public_html/sydneyhealthphysiotherapy/physioblog/wp-content/plugins/mojo-marketplace-wp-plugin/vendor/jetpack/jetpack-onboarding/class.jetpack-onboarding-end-points.php on line 567
